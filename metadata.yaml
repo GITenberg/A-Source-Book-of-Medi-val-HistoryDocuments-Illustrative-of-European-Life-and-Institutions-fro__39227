@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '1088'
     url: http://www.gutenberg.org/2009/agents/1088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39227#A-Source-Book-of-Medi-val-HistoryDocuments-Illustrative-of-European-Life-and-Institutions-fro_
 gutenberg_issued: '2012-03-21'
 gutenberg_type: Text
 identifiers:
